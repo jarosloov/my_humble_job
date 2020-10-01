@@ -1,10 +1,12 @@
 ### ✨Hello, friend!✨
 
-💬  This is my first attempt to create a game from scratch. Wish me luck :) 
+💬  This is my first attempt to create a game from scratch. Wish me luck  
         //  Это моя первая попытка создать игру с нуля. Пожелай мне удачи :))
 
 🤔  How do you think it will work? 
         //  Как вы думаете, как это будет работать?
+
+😄😄😄        
 
        
 <!--
