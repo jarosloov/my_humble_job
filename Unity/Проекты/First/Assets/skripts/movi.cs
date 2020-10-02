@@ -7,10 +7,9 @@ using UnityEngine;
 public class movi : MonoBehaviour
 {
     public float Speed = 10f; // переменная которая хранит скорость перемещения
-    public float JumpForce = 300f;
-
-    //что бы эта переменная работала добавьте тэг "Ground" на вашу поверхность земли
-    private bool _isGrounded;
+    public float JumpForce = 300f; // сила прыжка
+    // что бы эта переменная работала добавьте тэг "Ground" на вашу поверхность земли
+    private bool _isGrounded = true;
     private Rigidbody _rb;
 
     void Start()
@@ -18,7 +17,7 @@ public class movi : MonoBehaviour
         _rb = GetComponent<Rigidbody>();
     }
 
-        //  FixedUpdate срабатывает в определеный мамент не как Update кажды кадр
+    //  FixedUpdate срабатывает в определеный мамент не как Update кажды кадр
     void FixedUpdate()
     {
         MovementLogic();
@@ -29,26 +28,14 @@ public class movi : MonoBehaviour
     {
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
-        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+        Vector3 movement = new Vector3(- moveHorizontal, 0.0f, - moveVertical);
         _rb.AddForce(movement * Speed);
     }
 
     private void JumpLogic()
     {
         if (Input.GetAxis("Jump") > 0)
-        {
-            //if (_isGrounded)
-            //{
-                _rb.AddForce(Vector3.up * JumpForce);
-
-                // Обратите внимание что я делаю на основе Vector3.up 
-                // а не на основе transform.up. Если персонаж упал или 
-                // если персонаж -- шар, то его личный "верх" может 
-                // любое направление. Влево, вправо, вниз...
-                // Но нам нужен скачек только в абсолютный вверх, 
-                // потому и Vector3.up
-            //}
-        }
+            _rb.AddForce(Vector3.up * JumpForce);
     }
 
     void OnCollisionEnter(Collision collision)
