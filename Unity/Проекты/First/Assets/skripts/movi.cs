@@ -1,11 +1,12 @@
-﻿using UnityEngine;
+﻿// Скрипт на перемещение шарика
+using UnityEngine;
 
 //эта строчка гарантирует что наш скрипт не завалится 
 //ести на плеере будет отсутствовать компонент Rigidbody
 [RequireComponent(typeof(Rigidbody))]
 public class movi : MonoBehaviour
 {
-    public float Speed = 10f;
+    public float Speed = 10f; // переменная которая хранит скорость перемещения
     public float JumpForce = 300f;
 
     //что бы эта переменная работала добавьте тэг "Ground" на вашу поверхность земли
@@ -17,8 +18,7 @@ public class movi : MonoBehaviour
         _rb = GetComponent<Rigidbody>();
     }
 
-    // обратите внимание что все действия с физикой 
-    // необходимо обрабатывать в FixedUpdate, а не в Update
+        //  FixedUpdate срабатывает в определеный мамент не как Update кажды кадр
     void FixedUpdate()
     {
         MovementLogic();
@@ -37,8 +37,8 @@ public class movi : MonoBehaviour
     {
         if (Input.GetAxis("Jump") > 0)
         {
-            if (_isGrounded)
-            {
+            //if (_isGrounded)
+            //{
                 _rb.AddForce(Vector3.up * JumpForce);
 
                 // Обратите внимание что я делаю на основе Vector3.up 
@@ -47,7 +47,7 @@ public class movi : MonoBehaviour
                 // любое направление. Влево, вправо, вниз...
                 // Но нам нужен скачек только в абсолютный вверх, 
                 // потому и Vector3.up
-            }
+            //}
         }
     }
 
