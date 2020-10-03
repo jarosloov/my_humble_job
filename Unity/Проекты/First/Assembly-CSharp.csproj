@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\skripts\Camera.cs" />
      <Compile Include="Assets\skripts\movi.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Program/Unity/2019.4.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
