@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 5275b7f02d70eee45a41207879154c09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1484996591656303689
+    second: Poluchenie_urona_0
+  - first:
+      213: -2885263599674291966
+    second: Poluchenie_urona_1
+  - first:
+      213: 5080187582056215760
+    second: Poluchenie_urona_2
+  - first:
+      213: 4077983596418802840
+    second: Poluchenie_urona_3
+  - first:
+      213: -4144306454153676648
+    second: Poluchenie_urona_4
+  - first:
+      213: 478653297525220974
+    second: Poluchenie_urona_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poluchenie_urona_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.533625, y: 0.20825236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b309adb77b346be0800000000000000
+      internalID: -1484996591656303689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poluchenie_urona_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54917145, y: 0.22361058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2098c0afa0c75f7d0800000000000000
+      internalID: -2885263599674291966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poluchenie_urona_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54917145, y: 0.2043276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4bfcc90b3708640800000000000000
+      internalID: 5080187582056215760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poluchenie_urona_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5409762, y: 0.20861277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894a9609978e79830800000000000000
+      internalID: 4077983596418802840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poluchenie_urona_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54917145, y: 0.2043276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bfc7cc377c76c0800000000000000
+      internalID: -4144306454153676648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poluchenie_urona_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.52731705, y: 0.24289356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666f8953a484a600800000000000000
+      internalID: 478653297525220974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

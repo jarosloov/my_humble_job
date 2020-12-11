@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 2d3fb0d116f96f84e9ac98a517b20837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3479979752252048193
+    second: Personazh_1_0
+  - first:
+      213: -1267384363135633213
+    second: Personazh_1_1
+  - first:
+      213: 8953176767520801732
+    second: Personazh_1_2
+  - first:
+      213: -435221097018201325
+    second: Personazh_1_3
+  - first:
+      213: -567972763121830615
+    second: Personazh_1_4
+  - first:
+      213: -4867316534963495220
+    second: Personazh_1_5
+  - first:
+      213: -9222332885046736396
+    second: Personazh_1_6
+  - first:
+      213: -2046232373885486927
+    second: Personazh_1_7
+  - first:
+      213: 978032380663672724
+    second: Personazh_1_8
+  - first:
+      213: 1181083830799980218
+    second: Personazh_1_9
+  - first:
+      213: -3866170920408384665
+    second: Personazh_1_10
+  - first:
+      213: 1923335798881761804
+    second: Personazh_1_11
+  - first:
+      213: -2011880567070680018
+    second: Personazh_1_12
+  - first:
+      213: -2805985896325725418
+    second: Personazh_1_13
+  - first:
+      213: -8348087520970750334
+    second: Personazh_1_14
+  - first:
+      213: -2728828759474643663
+    second: Personazh_1_15
+  - first:
+      213: 5942509644713413795
+    second: Personazh_1_16
+  - first:
+      213: -3903724357937270488
+    second: Personazh_1_17
+  - first:
+      213: 1700746465430719886
+    second: Personazh_1_18
+  - first:
+      213: 7844889227961184444
+    second: Personazh_1_19
+  - first:
+      213: -4477387243530323536
+    second: Personazh_1_20
+  - first:
+      213: 8394902962044548436
+    second: Personazh_1_21
+  - first:
+      213: -4494068366820739920
+    second: Personazh_1_22
+  - first:
+      213: 3810037391268635937
+    second: Personazh_1_23
+  - first:
+      213: -1911617074018277282
+    second: Personazh_1_24
+  - first:
+      213: 1220013145061197574
+    second: Personazh_1_25
+  - first:
+      213: 4719811619308476990
+    second: Personazh_1_26
+  - first:
+      213: 6823523757724096555
+    second: Personazh_1_27
+  - first:
+      213: -4037362378560630432
+    second: Personazh_1_28
+  - first:
+      213: -4646366407033171521
+    second: Personazh_1_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personazh_1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54114056, y: 0.18914436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf6716ad0a4bfc0800000000000000
+      internalID: -3479979752252048193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5525166, y: 0.21424551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38b5785d2104c70800000000000000
+      internalID: 8953176767520801732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 99
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5525166, y: 0.17176867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6979d7b8c5f9f0800000000000000
+      internalID: -435221097018201325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 99
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.55251616, y: 0.16356277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b60cf7c72e18f0800000000000000
+      internalID: -567972763121830615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 99
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5393875, y: 0.17176867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9d1c4661d37cb0800000000000000
+      internalID: -4867316534963495220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53879166, y: 0.19194704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c2626a11b30080800000000000000
+      internalID: -9222332885046736396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.56564486, y: 0.19879958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b6a25f725a93e0800000000000000
+      internalID: -2046232373885486927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.55251694, y: 0.21424551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa944b44ba29d00800000000000000
+      internalID: 978032380663672724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 99
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5525147, y: 0.20652278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab65ac88c7d046010800000000000000
+      internalID: 1181083830799980218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4999994, y: 0.21424551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bfc10280a985ac0800000000000000
+      internalID: -3866170920408384665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53885686, y: 0.14920807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab32408bf01ba10800000000000000
+      internalID: 1923335798881761804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 78
+        width: 10
+        height: 18
+      alignment: 9
+      pivot: {x: 0.552137, y: 0.25090238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9d3d984d5414e0800000000000000
+      internalID: -2011880567070680018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.552137, y: 0.20558077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cfbca1b22f09d0800000000000000
+      internalID: -2805985896325725418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5417099, y: 0.20864779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286caa631a2a52c80800000000000000
+      internalID: -8348087520970750334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 78
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.50401074, y: 0.24510956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd4a283b0412ad0800000000000000
+      internalID: -2728828759474643663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 57
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5609177, y: 0.21333021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc97f7909087250800000000000000
+      internalID: 5942509644713413795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 57
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53365785, y: 0.25251746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821fb18116f23d9c0800000000000000
+      internalID: -3903724357937270488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5448769, y: 0.20302111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dcffc36e34a9710800000000000000
+      internalID: 1700746465430719886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 57
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5420723, y: 0.21328671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03ae65035aedc60800000000000000
+      internalID: 7844889227961184444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5560974, y: 0.20302133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9728336002dd1c0800000000000000
+      internalID: -4477387243530323536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5280479, y: 0.2393184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4553a8014cfa08470800000000000000
+      internalID: 8394902962044548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 36
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.57894725, y: 0.19988184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4745781acd1a1c0800000000000000
+      internalID: -4494068366820739920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5720385, y: 0.19349603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e58722d8ffd430800000000000000
+      internalID: 3810037391268635937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5542759, y: 0.16755533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58a19c36629875e0800000000000000
+      internalID: -1911617074018277282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 36
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5651306, y: 0.21265277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070ea4dd7b5ee010800000000000000
+      internalID: 1220013145061197574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5434208, y: 0.20626764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a94af39a3208140800000000000000
+      internalID: 4719811619308476990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 19
+        width: 17
+        height: 10
+      alignment: 9
+      pivot: {x: 0.22542393, y: 0.45657808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28559f74b602be50800000000000000
+      internalID: 6823523757724096555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_1_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 19
+        height: 11
+      alignment: 9
+      pivot: {x: 0.24289945, y: 0.41118363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611e5cbe4868f7c0800000000000000
+      internalID: -4037362378560630432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4ef6a7fb8845f46b3e5eb6e48ecc82, type: 3}
+  m_Name: player
+  m_EditorClassIdentifier: 
+  animatorData:
+    animatoins:
+    - nameID: Attack
+      step: 0.07
+      loop: 1
+      sprites:
+      - {fileID: 21300000, guid: ab3188fe059792143a7d4300733ebf4c, type: 3}
+      - {fileID: 21300000, guid: 1d00667ad1362724aabd24033fea8f73, type: 3}
+      - {fileID: 21300000, guid: 8059df17b0fb92e448deb3386cfa8fdf, type: 3}
+      - {fileID: 21300000, guid: 157ba604a20db9e4990566a87d8213f2, type: 3}
+      - {fileID: 21300000, guid: 32361bdfba809be45a54cea2fb169843, type: 3}
+      - {fileID: 21300000, guid: 60b398398d9726846babb1e1bdcd60ac, type: 3}
+      - {fileID: 21300000, guid: 26e338e15e97ef243a6b1d0c76ece73b, type: 3}
+      sendString:
+      - 
+      - 
+      - test
+      - 
+      - 
+      - 
+      - 
+      active: 00000100000000
+      sendFloat:
+      - 0
+      - 0
+      - 2.48
+      - 0
+      - 0
+      - 0
+      - 0
+      sendInt: 00000000000000004900000000000000000000000000000000000000
+    - nameID: Idle
+      step: 0.1
+      loop: 1
+      sprites:
+      - {fileID: 21300000, guid: 097737625e3c0e8419ccfffab34674a8, type: 3}
+      - {fileID: 21300000, guid: 8088b1c6d2833b444bbd27340fc39136, type: 3}
+      - {fileID: 21300000, guid: 99a3801cedd77374b97cf281a5aacbaa, type: 3}
+      - {fileID: 21300000, guid: eed319708f4c5574ca7edfcaa8edf37b, type: 3}
+      - {fileID: 21300000, guid: b7766b08bf5cd484daea97e275e9a9f7, type: 3}
+      - {fileID: 21300000, guid: 0fe1375f28bbdb54aba9c3209e52e885, type: 3}
+      sendString:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      active: 000000000000
+      sendFloat:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      sendInt: 000000000000000000000000000000000000000000000000
+    - nameID: Walk
+      step: 0.08
+      loop: 1
+      sprites:
+      - {fileID: 21300000, guid: 6718a819c2a92c24d897319c6d4abf0e, type: 3}
+      - {fileID: 21300000, guid: 881d3f05362c8ff42813a57bb7429294, type: 3}
+      - {fileID: 21300000, guid: 76cf8a474069d034092329ecb2dca538, type: 3}
+      - {fileID: 21300000, guid: b28094d0ea303634ab51b3a6d0ed0d2a, type: 3}
+      - {fileID: 21300000, guid: 92acbe059613f4d489d0b273fe8d70e4, type: 3}
+      - {fileID: 21300000, guid: 2f575663fd4092746a7004a0360263f3, type: 3}
+      - {fileID: 21300000, guid: ff1510b42a35e7b49aa15212d11d1de5, type: 3}
+      - {fileID: 21300000, guid: 0406e1870b182844da7a9d618beb3102, type: 3}
+      - {fileID: 21300000, guid: 96230695fd9435742a1e740d0ed9dc43, type: 3}
+      sendString:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      active: 000000000000000000
+      sendFloat:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      sendInt: 000000000000000000000000000000000000000000000000000000000000000000000000

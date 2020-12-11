@@ -1,0 +1,2612 @@
+fileFormatVersion: 2
+guid: 35f7ba25db03f834d8dbe48a006ed462
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1749481534417045150
+    second: Cyberpunk_puck_0
+  - first:
+      213: 2718658407297343160
+    second: Cyberpunk_puck_1
+  - first:
+      213: 5384339044577224317
+    second: Cyberpunk_puck_2
+  - first:
+      213: 532877006403923891
+    second: Cyberpunk_puck_3
+  - first:
+      213: 1294735341352891895
+    second: Cyberpunk_puck_4
+  - first:
+      213: -395053924298738871
+    second: Cyberpunk_puck_5
+  - first:
+      213: -43625901917526389
+    second: Cyberpunk_puck_6
+  - first:
+      213: -7368092223253302999
+    second: Cyberpunk_puck_7
+  - first:
+      213: 3313562614947435181
+    second: Cyberpunk_puck_8
+  - first:
+      213: 2135147388481630050
+    second: Cyberpunk_puck_9
+  - first:
+      213: -8449577278691841875
+    second: Cyberpunk_puck_10
+  - first:
+      213: -8235859826554589859
+    second: Cyberpunk_puck_11
+  - first:
+      213: -5053962599427781145
+    second: Cyberpunk_puck_12
+  - first:
+      213: -7912131051334944432
+    second: Cyberpunk_puck_13
+  - first:
+      213: 4945674500896010220
+    second: Cyberpunk_puck_14
+  - first:
+      213: 8038870196775338679
+    second: Cyberpunk_puck_15
+  - first:
+      213: -1865468322178341047
+    second: Cyberpunk_puck_16
+  - first:
+      213: -8240707738227114491
+    second: Cyberpunk_puck_17
+  - first:
+      213: 6359301369454706256
+    second: Cyberpunk_puck_18
+  - first:
+      213: 6710170377232586929
+    second: Cyberpunk_puck_19
+  - first:
+      213: -1694124975552711120
+    second: Cyberpunk_puck_20
+  - first:
+      213: -7271730555972686807
+    second: Cyberpunk_puck_21
+  - first:
+      213: -1979012328686204856
+    second: Cyberpunk_puck_22
+  - first:
+      213: -1956246563813928512
+    second: Cyberpunk_puck_23
+  - first:
+      213: -1818922811687190097
+    second: Cyberpunk_puck_24
+  - first:
+      213: 4230738981413558129
+    second: Cyberpunk_puck_25
+  - first:
+      213: 5185535871369170084
+    second: Cyberpunk_puck_26
+  - first:
+      213: -3566103136298852401
+    second: Cyberpunk_puck_27
+  - first:
+      213: 3773600021863376210
+    second: Cyberpunk_puck_28
+  - first:
+      213: 9160675944089973055
+    second: Cyberpunk_puck_29
+  - first:
+      213: 8044219483567702511
+    second: Cyberpunk_puck_30
+  - first:
+      213: -8859403031350464479
+    second: Cyberpunk_puck_31
+  - first:
+      213: 4483488807700570904
+    second: Cyberpunk_puck_32
+  - first:
+      213: -3146624001851997975
+    second: Cyberpunk_puck_33
+  - first:
+      213: 5895853692775178704
+    second: Cyberpunk_puck_34
+  - first:
+      213: -7202001026009585444
+    second: Cyberpunk_puck_35
+  - first:
+      213: 3169455553776426965
+    second: Cyberpunk_puck_36
+  - first:
+      213: -3640635032995733235
+    second: Cyberpunk_puck_37
+  - first:
+      213: 3691490878058503223
+    second: Cyberpunk_puck_38
+  - first:
+      213: 4396658955606985204
+    second: Cyberpunk_puck_39
+  - first:
+      213: 659147333405670816
+    second: Cyberpunk_puck_40
+  - first:
+      213: 8841868025413083980
+    second: Cyberpunk_puck_41
+  - first:
+      213: 6653059632821358607
+    second: Cyberpunk_puck_42
+  - first:
+      213: 2060783395907825327
+    second: Cyberpunk_puck_43
+  - first:
+      213: 1474881863777033105
+    second: Cyberpunk_puck_44
+  - first:
+      213: -8545515852025660241
+    second: Cyberpunk_puck_45
+  - first:
+      213: 7610489801792189776
+    second: Cyberpunk_puck_46
+  - first:
+      213: 8672877176090244216
+    second: Cyberpunk_puck_47
+  - first:
+      213: -8296140106183041644
+    second: Cyberpunk_puck_48
+  - first:
+      213: -7104230129707521822
+    second: Cyberpunk_puck_49
+  - first:
+      213: -3430782177192207092
+    second: Cyberpunk_puck_50
+  - first:
+      213: -3291090706153681427
+    second: Cyberpunk_puck_51
+  - first:
+      213: -1958929645288754075
+    second: Cyberpunk_puck_52
+  - first:
+      213: 8666610931201191480
+    second: Cyberpunk_puck_53
+  - first:
+      213: 2967136960182313749
+    second: Cyberpunk_puck_54
+  - first:
+      213: 7014652579745228380
+    second: Cyberpunk_puck_55
+  - first:
+      213: 8088208733461404018
+    second: Cyberpunk_puck_56
+  - first:
+      213: -4586243724435580014
+    second: Cyberpunk_puck_57
+  - first:
+      213: -3216306634042358482
+    second: Cyberpunk_puck_58
+  - first:
+      213: -8053818853491565613
+    second: Cyberpunk_puck_59
+  - first:
+      213: 8095398007519704912
+    second: Cyberpunk_puck_60
+  - first:
+      213: 4000695936650305499
+    second: Cyberpunk_puck_61
+  - first:
+      213: 3958585238725395916
+    second: Cyberpunk_puck_62
+  - first:
+      213: -5347124181035951527
+    second: Cyberpunk_puck_63
+  - first:
+      213: 3172742176032023690
+    second: Cyberpunk_puck_64
+  - first:
+      213: 7284099640998379804
+    second: Cyberpunk_puck_65
+  - first:
+      213: 1727136710891688719
+    second: Cyberpunk_puck_66
+  - first:
+      213: -2459874315161364103
+    second: Cyberpunk_puck_67
+  - first:
+      213: 8796155916259140989
+    second: Cyberpunk_puck_68
+  - first:
+      213: 4556079181262333565
+    second: Cyberpunk_puck_69
+  - first:
+      213: 7281807236921263901
+    second: Cyberpunk_puck_70
+  - first:
+      213: 4256112719341957061
+    second: Cyberpunk_puck_71
+  - first:
+      213: 3299040395925864987
+    second: Cyberpunk_puck_72
+  - first:
+      213: -972734074461724424
+    second: Cyberpunk_puck_73
+  - first:
+      213: 1255042038965988803
+    second: Cyberpunk_puck_74
+  - first:
+      213: 5192477086402923180
+    second: Cyberpunk_puck_75
+  - first:
+      213: -733828135068233963
+    second: Cyberpunk_puck_76
+  - first:
+      213: -6330588166451985724
+    second: Cyberpunk_puck_77
+  - first:
+      213: -8841279011405013379
+    second: Cyberpunk_puck_78
+  - first:
+      213: -7275039859003659540
+    second: Cyberpunk_puck_79
+  - first:
+      213: 4301683861129187090
+    second: Cyberpunk_puck_80
+  - first:
+      213: 2096448005585661056
+    second: Cyberpunk_puck_81
+  - first:
+      213: 8824990292264508650
+    second: Cyberpunk_puck_82
+  - first:
+      213: 1444528823329055174
+    second: Cyberpunk_puck_83
+  - first:
+      213: 7717899156738897755
+    second: Cyberpunk_puck_84
+  - first:
+      213: 7840251743191687425
+    second: Cyberpunk_puck_85
+  - first:
+      213: 7024696515562180302
+    second: Cyberpunk_puck_86
+  - first:
+      213: -4790236216489499225
+    second: Cyberpunk_puck_87
+  - first:
+      213: 3144368523369118229
+    second: Cyberpunk_puck_88
+  - first:
+      213: 9111748859756872728
+    second: Cyberpunk_puck_89
+  - first:
+      213: 2610871259126887112
+    second: Cyberpunk_puck_90
+  - first:
+      213: -1044333886012291014
+    second: Cyberpunk_puck_91
+  - first:
+      213: -1638061882420944224
+    second: Cyberpunk_puck_92
+  - first:
+      213: -808330088728786586
+    second: Cyberpunk_puck_93
+  - first:
+      213: 3579505602531658692
+    second: Cyberpunk_puck_94
+  - first:
+      213: -3434268689344718260
+    second: Cyberpunk_puck_95
+  - first:
+      213: -3896177268740436011
+    second: Cyberpunk_puck_96
+  - first:
+      213: 6694781927051585673
+    second: Cyberpunk_puck_97
+  - first:
+      213: 4038758618144429131
+    second: Cyberpunk_puck_98
+  - first:
+      213: 7306046468016462929
+    second: Cyberpunk_puck_99
+  - first:
+      213: 119015636813877406
+    second: Cyberpunk_puck_100
+  - first:
+      213: -4260213080461599727
+    second: Cyberpunk_puck_101
+  - first:
+      213: 2958699437885139181
+    second: Cyberpunk_puck_102
+  - first:
+      213: -8122361002632304821
+    second: Cyberpunk_puck_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyberpunk_puck_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26977f740d798b7e0800000000000000
+      internalID: -1749481534417045150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be5698da6d9ab520800000000000000
+      internalID: 2718658407297343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 368
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76aa4665d309ba40800000000000000
+      internalID: 5384339044577224317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 368
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfeda360d8256700800000000000000
+      internalID: 532877006403923891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 368
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5bb73eee2d7f110800000000000000
+      internalID: 1294735341352891895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943bc078c8c748af0800000000000000
+      internalID: -395053924298738871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86233d2972056ff0800000000000000
+      internalID: -43625901917526389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213ba829274fb990800000000000000
+      internalID: -7368092223253302999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 336
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d4fc64a32cfd20800000000000000
+      internalID: 3313562614947435181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 336
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fec81cc3191ad10800000000000000
+      internalID: 2135147388481630050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 336
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da86c599b321dba80800000000000000
+      internalID: -8449577278691841875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 336
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dad4a8f1954bd80800000000000000
+      internalID: -8235859826554589859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4ff8fac7bcd9b0800000000000000
+      internalID: -5053962599427781145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b7d4aab6723290800000000000000
+      internalID: -7912131051334944432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 304
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2d9851c092a440800000000000000
+      internalID: 4945674500896010220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c44a2addcf8f60800000000000000
+      internalID: 8038870196775338679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 304
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947e0d4d1768c16e0800000000000000
+      internalID: -1865468322178341047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 304
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef82529ff13ad80800000000000000
+      internalID: -8240707738227114491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb00a07e6c04850800000000000000
+      internalID: 6359301369454706256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 272
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81c45f7605f1d50800000000000000
+      internalID: 6710170377232586929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 272
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03630138f424d78e0800000000000000
+      internalID: -1694124975552711120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 272
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ce4ec269f951b90800000000000000
+      internalID: -7271730555972686807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 272
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8484a86b5c22984e0800000000000000
+      internalID: -1979012328686204856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 272
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1dac66d140ad4e0800000000000000
+      internalID: -1956246563813928512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c78ff653e1c6e0800000000000000
+      internalID: -1818922811687190097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 242
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1779d8c20ba96ba30800000000000000
+      internalID: 4230738981413558129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 240
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac410f9669b6f740800000000000000
+      internalID: 5185535871369170084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 240
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf10807718a28ec0800000000000000
+      internalID: -3566103136298852401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a29bf9358e5430800000000000000
+      internalID: 3773600021863376210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f2fd5c32412f70800000000000000
+      internalID: 9160675944089973055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1445d000fc2af60800000000000000
+      internalID: 8044219483567702511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 210
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203652d1e31d0580800000000000000
+      internalID: -8859403031350464479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ae69e05d883e30800000000000000
+      internalID: 4483488807700570904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 211
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c4ef4422f454d0800000000000000
+      internalID: -3146624001851997975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 213
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12a8d22b742d150800000000000000
+      internalID: 5895853692775178704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 192
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd823b4893a5d0c90800000000000000
+      internalID: -7202001026009585444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9b3e980b2cfb20800000000000000
+      internalID: 3169455553776426965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016275f9bdd97dc0800000000000000
+      internalID: -3640635032995733235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c954e256fca3330800000000000000
+      internalID: 3691490878058503223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98e7f8602140d30800000000000000
+      internalID: 4396658955606985204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 195
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7a46e103c52900800000000000000
+      internalID: 659147333405670816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 196
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a1a57f10a4ba70800000000000000
+      internalID: 8841868025413083980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 196
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00dec39c7a645c50800000000000000
+      internalID: 6653059632821358607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 196
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeeb10849f599c10800000000000000
+      internalID: 2060783395907825327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 196
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b9818ad35d77410800000000000000
+      internalID: 1474881863777033105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 196
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7a81db9a386980800000000000000
+      internalID: -8545515852025660241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557e821724ed9960800000000000000
+      internalID: 7610489801792189776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b37d37df3c5870800000000000000
+      internalID: 8672877176090244216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 179
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d961c37803edc80800000000000000
+      internalID: -8296140106183041644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 178
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e72c3654b86d90800000000000000
+      internalID: -7104230129707521822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 178
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d97b279c96360d0800000000000000
+      internalID: -3430782177192207092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedce109072b352d0800000000000000
+      internalID: -3291090706153681427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 179
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564f490dddb70d4e0800000000000000
+      internalID: -1958929645288754075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 179
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ea3c869bcf54870800000000000000
+      internalID: 8666610931201191480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 150
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513699f38536d2920800000000000000
+      internalID: 2967136960182313749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56ed762b5d095160800000000000000
+      internalID: 7014652579745228380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 165
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279dd2b6df61f3070800000000000000
+      internalID: 8088208733461404018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 165
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b17afa1a36a50c0800000000000000
+      internalID: -4586243724435580014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 164
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254c2538226d53d0800000000000000
+      internalID: -3216306634042358482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db9a487c661b3090800000000000000
+      internalID: -8053818853491565613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 165
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057fd99b891a85070800000000000000
+      internalID: 8095398007519704912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd36ef1c3558730800000000000000
+      internalID: 4000695936650305499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_62
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 163
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc505571d48bfe630800000000000000
+      internalID: 3958585238725395916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a537b33e23bc5b0800000000000000
+      internalID: -5347124181035951527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84e94ef238d70c20800000000000000
+      internalID: 3172742176032023690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 148
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11424ad702561560800000000000000
+      internalID: 7284099640998379804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035c3310b508f710800000000000000
+      internalID: 1727136710891688719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 148
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97913b4e755ccddd0800000000000000
+      internalID: -2459874315161364103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a399a339321a70800000000000000
+      internalID: 8796155916259140989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 148
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a1bf40e17a3f30800000000000000
+      internalID: 4556079181262333565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d178f8fe91d2e0560800000000000000
+      internalID: 7281807236921263901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2668e7ffb01b30800000000000000
+      internalID: 4256112719341957061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1243d2d2cb88cd20800000000000000
+      internalID: 3299040395925864987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06ac653872082f0800000000000000
+      internalID: -972734074461724424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdefbeb51eca6110800000000000000
+      internalID: 1255042038965988803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_75
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac66f26626f0840800000000000000
+      internalID: 5192477086402923180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f021bf23be0d5f0800000000000000
+      internalID: -733828135068233963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2865f7a9b3528a0800000000000000
+      internalID: -6330588166451985724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 133
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e561d05977d4580800000000000000
+      internalID: -8841279011405013379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea67450bcdd90b90800000000000000
+      internalID: -7275039859003659540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc2ae2ea6a2bb30800000000000000
+      internalID: 4301683861129187090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c62078a54181d10800000000000000
+      internalID: 2096448005585661056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec52bcf9e9a87a70800000000000000
+      internalID: 8824990292264508650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c16756bf4ffb0410800000000000000
+      internalID: 1444528823329055174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 116
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5775b1546c7b1b60800000000000000
+      internalID: 7717899156738897755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e396cb6b2ecc60800000000000000
+      internalID: 7840251743191687425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 113
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0201334cbc7160800000000000000
+      internalID: 7024696515562180302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_87
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5aee57a89a58db0800000000000000
+      internalID: -4790236216489499225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af55e238a03ab20800000000000000
+      internalID: 3144368523369118229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 99
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140164df4f637e70800000000000000
+      internalID: 9111748859756872728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f882c39dab3420800000000000000
+      internalID: 2610871259126887112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_91
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3885512dd7c181f0800000000000000
+      internalID: -1044333886012291014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_92
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 83
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a22132956f6449e0800000000000000
+      internalID: -1638061882420944224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698f08211c38c4f0800000000000000
+      internalID: -808330088728786586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_94
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8b666165fca130800000000000000
+      internalID: 3579505602531658692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_95
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9c5492d60750d0800000000000000
+      internalID: -3434268689344718260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df46caba6ffde9c0800000000000000
+      internalID: -3896177268740436011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886d9231b4a8ec50800000000000000
+      internalID: 6694781927051585673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44db00a09d8c0830800000000000000
+      internalID: 4038758618144429131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_99
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5e96bd8a446560800000000000000
+      internalID: 7306046468016462929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9012035714d6a100800000000000000
+      internalID: 119015636813877406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_101
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 82
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c1d9f56cea0e4c0800000000000000
+      internalID: -4260213080461599727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 82
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8aa4086796f0920800000000000000
+      internalID: 2958699437885139181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk_puck_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ad94c3b3974f80800000000000000
+      internalID: -8122361002632304821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

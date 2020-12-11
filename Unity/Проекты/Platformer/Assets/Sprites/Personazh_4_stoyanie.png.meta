@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 5f83fb61f80a38544ba4b2a6ef79c3cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5098214283816323464
+    second: Personazh_4_stoyanie_0
+  - first:
+      213: 6521859293478077393
+    second: Personazh_4_stoyanie_1
+  - first:
+      213: 5118840670784164485
+    second: Personazh_4_stoyanie_2
+  - first:
+      213: -6580649654439936979
+    second: Personazh_4_stoyanie_3
+  - first:
+      213: -5669898980598891396
+    second: Personazh_4_stoyanie_4
+  - first:
+      213: -3401925722233445951
+    second: Personazh_4_stoyanie_5
+  - first:
+      213: 5026436094662002828
+    second: Personazh_4_stoyanie_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5838972, y: 0.1975469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763e40de118f39b0800000000000000
+      internalID: -5098214283816323464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5898897, y: 0.20954317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d347de197c428a50800000000000000
+      internalID: 6521859293478077393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5898895, y: 0.20336324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58299e32876c90740800000000000000
+      internalID: 5118840670784164485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.59588206, y: 0.21572311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7fcb4106dca4a0800000000000000
+      internalID: -6580649654439936979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.67977905, y: 0.22856773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbd05eae87051b0800000000000000
+      internalID: -5669898980598891396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5928858, y: 0.22275133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e20e649ee9c0d0800000000000000
+      internalID: -3401925722233445951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazh_4_stoyanie_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5898888, y: 0.21693492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c7843ffc71c540800000000000000
+      internalID: 5026436094662002828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

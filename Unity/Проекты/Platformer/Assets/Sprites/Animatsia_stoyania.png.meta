@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 74475da6791504f42a0cd2a7fcf17b12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3828667935589592720
+    second: Animatsia_stoyania_0
+  - first:
+      213: -2839850045896916191
+    second: Animatsia_stoyania_1
+  - first:
+      213: 2606751904983269148
+    second: Animatsia_stoyania_2
+  - first:
+      213: 5132288695458909079
+    second: Animatsia_stoyania_3
+  - first:
+      213: 6909128320061327521
+    second: Animatsia_stoyania_4
+  - first:
+      213: 5053104669546236232
+    second: Animatsia_stoyania_5
+  - first:
+      213: -7668630895562978973
+    second: Animatsia_stoyania_6
+  - first:
+      213: 3568567440592236822
+    second: Animatsia_stoyania_7
+  - first:
+      213: -2563916997081348983
+    second: Animatsia_stoyania_8
+  - first:
+      213: 2573644424037430869
+    second: Animatsia_stoyania_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animatsia_stoyania_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.550946, y: 0.20631164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07111483cc6dddac0800000000000000
+      internalID: -3828667935589592720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5560411, y: 0.1465625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12300feed63d698d0800000000000000
+      internalID: -2839850045896916191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5509464, y: 0.20031798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb912eb0b0d2420800000000000000
+      internalID: 2606751904983269148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.54075736, y: 0.14974661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc491606d893740800000000000000
+      internalID: 5132288695458909079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.54075736, y: 0.15611486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c8d8d99722ef50800000000000000
+      internalID: 6909128320061327521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5407578, y: 0.16566722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849cb29aceb302640800000000000000
+      internalID: 5053104669546236232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.55094683, y: 0.20930845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3690264a4dc839590800000000000000
+      internalID: -7668630895562978973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5407578, y: 0.2033148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611768d1e29168130800000000000000
+      internalID: 3568567440592236822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54585266, y: 0.20631161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984416b43132b6cd0800000000000000
+      internalID: -2563916997081348983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animatsia_stoyania_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54585266, y: 0.20930845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5567ae8c7fb67b320800000000000000
+      internalID: 2573644424037430869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
